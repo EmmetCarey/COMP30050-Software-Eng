@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<root>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Advance to Go.</TITLE>
+		<AMOUNT/>
+		<MOVE>0</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Go back to Old Kent Road.</TITLE>
+		<AMOUNT/>
+		<MOVE>-1</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>4</CODE>
+		<TITLE>Go to jail. Move directly to jail. Do not pass Go. Do not collect $200.</TITLE>
+		<AMOUNT/>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>2</CODE>
+		<TITLE>Pay hospital $100.</TITLE>
+		<AMOUNT>100</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>2</CODE>
+		<TITLE>Doctor's fee. Pay $50.</TITLE>
+		<AMOUNT>50</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>2</CODE>
+		<TITLE>Pay your insurance premium $50.</TITLE>
+		<AMOUNT>50</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>Bank error in your favour. Collect $200.</TITLE>
+		<AMOUNT>200</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>Annuity matures. Collect $100.</TITLE>
+		<AMOUNT>100</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>You inherit $100.</TITLE>
+		<AMOUNT>100</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>From sale of stock you get $50.</TITLE>
+		<AMOUNT>50</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>Receive interest on 7% preference shares: $25.</TITLE>
+		<AMOUNT>25</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>Income tax refund. Collect $20.</TITLE>
+		<AMOUNT>20</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>1</CODE>
+		<TITLE>You have won second prize in a beauty contest. Collect $10.</TITLE>
+		<AMOUNT>10</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>6</CODE>
+		<TITLE>It is your birthday. Collect $10 from each player.</TITLE>
+		<AMOUNT>10</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>5</CODE>
+		<TITLE>Get out of jail free. This card may be kept until needed or sold.</TITLE>
+		<AMOUNT/>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>10</TYPE>
+		<CODE>8</CODE>
+		<TITLE>Pay a $10 fine or take a Chance.</TITLE>
+		<AMOUNT>10</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Advance to Go.</TITLE>
+		<AMOUNT/>
+		<MOVE>0</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>4</CODE>
+		<TITLE>Go to jail. Move directly to jail. Do not pass Go. Do not collect $200.</TITLE>
+		<AMOUNT/>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Advance to Pall Mall. If you pass Go collect $200.</TITLE>
+		<AMOUNT/>
+		<MOVE>11</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Take a trip to Marylebone Station and if you pass Go collect $200.</TITLE>
+		<AMOUNT/>
+		<MOVE>15</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Advance to Trafalgar Square. If you pass Go collect $200.</TITLE>
+		<AMOUNT/>
+		<MOVE>24</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Advance to Mayfair.</TITLE>
+		<AMOUNT/>
+		<MOVE>39</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>3</CODE>
+		<TITLE>Go back three spaces.</TITLE>
+		<AMOUNT/>
+		<MOVE>-3</MOVE>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>7</CODE>
+		<TITLE>Make general repairs on all of your houses. For each house pay $25. For each hotel pay $100.</TITLE>
+		<AMOUNT>25100</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>7</CODE>
+		<TITLE>You are assessed for street repairs: $40 per house, $115 per hotel.</TITLE>
+		<AMOUNT>40115</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>2</CODE>
+		<TITLE>Pay school fees of $150.</TITLE>
+		<AMOUNT>150</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>2</CODE>
+		<TITLE>Drunk in charge fine $20.</TITLE>
+		<AMOUNT>20</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>2</CODE>
+		<TITLE>Speeding fine $15.</TITLE>
+		<AMOUNT>15</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>1</CODE>
+		<TITLE>Your building loan matures. Receive $150.</TITLE>
+		<AMOUNT>150</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>1</CODE>
+		<TITLE>You have won a crossword competition. Collect $100.</TITLE>
+		<AMOUNT>100</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>1</CODE>
+		<TITLE>Bank pays you dividend of $50.</TITLE>
+		<AMOUNT>50</AMOUNT>
+		<MOVE/>
+	</CardData>
+	<CardData>
+		<TYPE>20</TYPE>
+		<CODE>5</CODE>
+		<TITLE>Get out of jail free. This card may be kept until needed or sold.</TITLE>
+		<AMOUNT/>
+		<MOVE/>
+	</CardData>
+</root>

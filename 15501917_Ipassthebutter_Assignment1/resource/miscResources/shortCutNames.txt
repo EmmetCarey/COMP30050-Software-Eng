@@ -1,0 +1,66 @@
+# Hash allows commenting here
+# place any words/phrases/parts of phrases that can be shortened here
+# ***IF ITS A MULTIWORD PHRASE CONSISTING OF N WORDS, INCLUDE THE WHOLE PHRASE
+#    A SINGLE PHRASE WITH WORDS 1-N, ANOTHER WITH WORDS 2-N,...FINAL WORD N...
+Road
+balance
+Bond Street
+Bow Street
+build
+buy
+Coventry Street
+demolish
+done
+Electric Company
+Euston Road
+Fenchurch Street Station
+Street Station
+Fleet Street
+Go
+help
+Kings Cross Station
+Leicester Square
+Liverpool Street Station
+Marlborough Street
+Marlebone Station
+Mayfair
+mortgage
+Northumberland Avenue
+Old Kent Road
+Kent Road
+Oxford Street
+Pall Mall
+Park Lane
+pay
+rent
+Pentonville Road
+Piccadilly
+property
+quit
+redeem
+Regent Street
+roll
+Strand
+The Angel Islington
+Angel Islington
+Islington
+Trafalgar Square
+Vine Street
+Water Works
+Whitechapel Road
+Whitehall
+Street
+Company
+Station
+Cross Station
+Avenue
+Mall
+Kent
+Lane
+Square
+Works
+house
+hotel
+bankrupt
+card
+clear
